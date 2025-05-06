@@ -1,7 +1,8 @@
+import os
 from pprint import pprint
 from youtool import YouTube
 
-api_keys = ['AIzaSyBfQZPdJXlI6C_FIU3nGr4TjHhhDqr1tcQ']
+api_keys = os.environ.get('API_KEY')
 yt = YouTube(api_keys)
 
 url = 'https://www.youtube.com/@kipperdev'
