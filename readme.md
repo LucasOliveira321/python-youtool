@@ -22,4 +22,4 @@ Este script Python analisa vídeos de um canal do YouTube, identificando os **5 
    export API_KEY="sua_chave_aqui"
 
 ## 🎥 Demonstração  
-![GIF mostrando a análise de vídeos](https://media.giphy.com/media/exemplo123/video.gif)
+![GIF mostrando a análise de vídeos](https://github.com/LucasOliveira321/python-youtool/blob/main/video.gif)
