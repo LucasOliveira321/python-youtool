@@ -20,3 +20,6 @@ Este script Python analisa vídeos de um canal do YouTube, identificando os **5 
 1. Configure sua API Key do YouTube:  
    ```bash
    export API_KEY="sua_chave_aqui"
+
+## 🎥 Demonstração  
+![GIF mostrando a análise de vídeos](https://media.giphy.com/media/exemplo123/video.gif)
